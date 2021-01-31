@@ -3,3 +3,5 @@ hello my name is sam
 line for second commit
 
 commit from dev
+
+second commit from dev
